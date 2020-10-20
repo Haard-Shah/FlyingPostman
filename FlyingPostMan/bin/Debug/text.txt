@@ -1,0 +1,11 @@
+Optimising tour length: Level 3 ...
+Elapsed time: 0 seconds
+Total Length:  1637.046
+
+*** refuel 10 minutes ***
+po 	 -> 	 tgb 	 23:00 	 23:28
+tgb	 -> 	 rfv 	 23:28 	 00:02
+rfv	 -> 	 edc 	 00:02 	 00:48
+edc	 -> 	 wsx 	 00:48 	 01:22
+wsx	 -> 	 yhn 	 01:32 	 02:14
+yhn	 -> 	 po  	 02:14 	 02:42

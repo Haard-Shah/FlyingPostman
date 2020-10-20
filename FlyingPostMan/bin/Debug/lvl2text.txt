@@ -1,0 +1,10 @@
+Optimising tour length: Level 2 ...
+Elapsed time:  0.00000 seconds
+Total Length:  972.585
+
+po 	 -> 	 tgb 	 23:00 	 23:40
+tgb	 -> 	 rfv 	 23:40 	 00:08
+rfv	 -> 	 edc 	 00:08 	 00:48
+edc	 -> 	 wsx 	 00:48 	 01:16
+wsx	 -> 	 yhn 	 01:16 	 01:52
+yhn	 -> 	 po  	 01:52 	 02:14
